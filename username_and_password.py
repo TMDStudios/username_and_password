@@ -49,6 +49,8 @@ while True:
                     name_check = True
                     users.append(username)
                     print("Username created")
+                else:
+                    print("Username must be between 3 and 14 characters long")
             else:
                 print("Username cannot contain numbers")
         else:
