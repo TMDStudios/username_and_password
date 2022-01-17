@@ -1,5 +1,3 @@
-from operator import truediv
-import re
 import unittest
 import username_and_password
 
